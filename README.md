@@ -3,4 +3,5 @@
 
 Ссылки:
 
+https://ru.wordpress.org/latest-ru_RU.zip wp
 https://wordpress.org/plugins/advanced-custom-fields/ Acf
